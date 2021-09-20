@@ -7,3 +7,6 @@
 [submodule "happy-man"]
 	path = happy-man
 	url = https://github.com/zhangbeanqc/happy-man
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/zhangbeanqc/fleet
