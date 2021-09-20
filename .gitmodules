@@ -1,3 +1,6 @@
 [submodule "rubber-band"]
 	path = rubber-band
 	url = https://github.com/zhangbeanqc/rubber-band
+[submodule "rock"]
+	path = rock
+	url = https://github.com/zhangbeanqc/rock	
